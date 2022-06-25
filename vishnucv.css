@@ -1,0 +1,117 @@
+
+.a1 img{
+    width: 229px;
+    height: 217px;
+    border-radius: 25px;
+    margin-left: 50px;
+    margin-top: 20px
+}
+.a2{
+    width: 945px;
+    height: 209px;
+    margin-left: 324px;
+    margin-top: -209px;
+    background-color:rgb(247, 39, 81);
+    padding-left: 30px;
+    border-radius: 25px;
+}
+.a3{
+    padding-top: 20px;
+    padding-left: 60px;
+    width: 500px;
+    height: 400px;
+}
+.a3 i{
+    color:crimson;
+}
+.a3 h4{
+    font-size:small;
+    color: black;
+}
+.a4{
+    width: 1669px;
+    height: 400px;
+    margin-left: 310px;
+    margin-top: -228px
+}
+.a4{
+    font-size:x-large;
+}
+
+.a5{
+    padding-left: 55px;
+    width: 600px;
+    margin-top: -100px;
+    
+}
+
+.a6 i{
+    color: crimson;
+}
+.a6{
+    margin-left: 319px;
+    margin-top: -288px;
+    width: 1500px;
+    height: 200px;
+}
+.a6 label{
+    font-size:x-large;
+}
+.a4 label{
+    font-size: x-large;
+}
+.a6 p{
+    font-size:large;
+}
+.a7{
+    margin-top: 250px;
+    padding-top: 30px;
+}
+.a8{
+    margin-left: 300px;
+    margin-top: -174px;
+    width: 1500px;
+}
+.a8 i{
+    color: crimson;
+}
+.a8 label{
+    font-size: x-large;
+}
+.a8 p{
+    font-size: large;
+}
+.a9{
+    margin-right: 600px;
+    padding-top: 30px;
+    
+}
+.a9 img{
+    padding-left: 62px;
+    padding-top: 41px;
+    width: 222px;
+    height: 190px;
+}
+.a9 i{
+    color: crimson;
+    padding-top: 30px;
+    
+}
+.a9 label{
+    font-size: x-large;
+    ;
+}
+.a9 p{
+    font-size: large;
+    width: 500px;
+    
+}
+label{
+    color: crimson;
+}
+h4{
+    color: crimson;
+}
+.a9 h3{
+    width: 1500px;
+}
